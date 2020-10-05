@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For Tone
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Drum	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendKey			KEYWORD2
+hitDrum			KEYWORD2
+begin   		KEYWORD2
+setThreshold 	KEYWORD2
+checkValue		KEYWORD2
+
